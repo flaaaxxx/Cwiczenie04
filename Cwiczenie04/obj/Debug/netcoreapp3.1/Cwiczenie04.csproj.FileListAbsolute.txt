@@ -1,0 +1,26 @@
+C:\Users\flaaa\RiderProjects\Cwiczenie04\Cwiczenie04\bin\Debug\netcoreapp3.1\Cwiczenie04.exe
+C:\Users\flaaa\RiderProjects\Cwiczenie04\Cwiczenie04\bin\Debug\netcoreapp3.1\Cwiczenie04.deps.json
+C:\Users\flaaa\RiderProjects\Cwiczenie04\Cwiczenie04\bin\Debug\netcoreapp3.1\Cwiczenie04.runtimeconfig.json
+C:\Users\flaaa\RiderProjects\Cwiczenie04\Cwiczenie04\bin\Debug\netcoreapp3.1\Cwiczenie04.runtimeconfig.dev.json
+C:\Users\flaaa\RiderProjects\Cwiczenie04\Cwiczenie04\bin\Debug\netcoreapp3.1\Cwiczenie04.dll
+C:\Users\flaaa\RiderProjects\Cwiczenie04\Cwiczenie04\bin\Debug\netcoreapp3.1\Cwiczenie04.pdb
+C:\Users\flaaa\RiderProjects\Cwiczenie04\Cwiczenie04\obj\Debug\netcoreapp3.1\Cwiczenie04.csprojAssemblyReference.cache
+C:\Users\flaaa\RiderProjects\Cwiczenie04\Cwiczenie04\obj\Debug\netcoreapp3.1\Cwiczenie04.AssemblyInfoInputs.cache
+C:\Users\flaaa\RiderProjects\Cwiczenie04\Cwiczenie04\obj\Debug\netcoreapp3.1\Cwiczenie04.AssemblyInfo.cs
+C:\Users\flaaa\RiderProjects\Cwiczenie04\Cwiczenie04\obj\Debug\netcoreapp3.1\Cwiczenie04.csproj.CoreCompileInputs.cache
+C:\Users\flaaa\RiderProjects\Cwiczenie04\Cwiczenie04\obj\Debug\netcoreapp3.1\Cwiczenie04.dll
+C:\Users\flaaa\RiderProjects\Cwiczenie04\Cwiczenie04\obj\Debug\netcoreapp3.1\Cwiczenie04.pdb
+C:\Users\flaaa\RiderProjects\Cwiczenie04\Cwiczenie04\obj\Debug\netcoreapp3.1\Cwiczenie04.genruntimeconfig.cache
+C:\Users\flaaa\OneDrive\Studia Informatyki\Semestr VI 2020\Programowanie Zaawansowane\4.Istota intefejsu\Cwiczenie04\Cwiczenie04\bin\Debug\netcoreapp3.1\Cwiczenie04.exe
+C:\Users\flaaa\OneDrive\Studia Informatyki\Semestr VI 2020\Programowanie Zaawansowane\4.Istota intefejsu\Cwiczenie04\Cwiczenie04\bin\Debug\netcoreapp3.1\Cwiczenie04.deps.json
+C:\Users\flaaa\OneDrive\Studia Informatyki\Semestr VI 2020\Programowanie Zaawansowane\4.Istota intefejsu\Cwiczenie04\Cwiczenie04\bin\Debug\netcoreapp3.1\Cwiczenie04.runtimeconfig.json
+C:\Users\flaaa\OneDrive\Studia Informatyki\Semestr VI 2020\Programowanie Zaawansowane\4.Istota intefejsu\Cwiczenie04\Cwiczenie04\bin\Debug\netcoreapp3.1\Cwiczenie04.runtimeconfig.dev.json
+C:\Users\flaaa\OneDrive\Studia Informatyki\Semestr VI 2020\Programowanie Zaawansowane\4.Istota intefejsu\Cwiczenie04\Cwiczenie04\bin\Debug\netcoreapp3.1\Cwiczenie04.dll
+C:\Users\flaaa\OneDrive\Studia Informatyki\Semestr VI 2020\Programowanie Zaawansowane\4.Istota intefejsu\Cwiczenie04\Cwiczenie04\bin\Debug\netcoreapp3.1\Cwiczenie04.pdb
+C:\Users\flaaa\OneDrive\Studia Informatyki\Semestr VI 2020\Programowanie Zaawansowane\4.Istota intefejsu\Cwiczenie04\Cwiczenie04\obj\Debug\netcoreapp3.1\Cwiczenie04.csprojAssemblyReference.cache
+C:\Users\flaaa\OneDrive\Studia Informatyki\Semestr VI 2020\Programowanie Zaawansowane\4.Istota intefejsu\Cwiczenie04\Cwiczenie04\obj\Debug\netcoreapp3.1\Cwiczenie04.AssemblyInfoInputs.cache
+C:\Users\flaaa\OneDrive\Studia Informatyki\Semestr VI 2020\Programowanie Zaawansowane\4.Istota intefejsu\Cwiczenie04\Cwiczenie04\obj\Debug\netcoreapp3.1\Cwiczenie04.AssemblyInfo.cs
+C:\Users\flaaa\OneDrive\Studia Informatyki\Semestr VI 2020\Programowanie Zaawansowane\4.Istota intefejsu\Cwiczenie04\Cwiczenie04\obj\Debug\netcoreapp3.1\Cwiczenie04.csproj.CoreCompileInputs.cache
+C:\Users\flaaa\OneDrive\Studia Informatyki\Semestr VI 2020\Programowanie Zaawansowane\4.Istota intefejsu\Cwiczenie04\Cwiczenie04\obj\Debug\netcoreapp3.1\Cwiczenie04.dll
+C:\Users\flaaa\OneDrive\Studia Informatyki\Semestr VI 2020\Programowanie Zaawansowane\4.Istota intefejsu\Cwiczenie04\Cwiczenie04\obj\Debug\netcoreapp3.1\Cwiczenie04.pdb
+C:\Users\flaaa\OneDrive\Studia Informatyki\Semestr VI 2020\Programowanie Zaawansowane\4.Istota intefejsu\Cwiczenie04\Cwiczenie04\obj\Debug\netcoreapp3.1\Cwiczenie04.genruntimeconfig.cache
